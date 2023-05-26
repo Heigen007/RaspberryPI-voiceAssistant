@@ -1,6 +1,7 @@
 # My Voice Assistant Project
 
 This project is a simple voice assistant using Node.js, Google Cloud Speech-to-Text API, and OpenAI GPT-3.5-turbo for processing voice commands.
+Youtube video: https://www.youtube.com/watch?v=1F61tzgjfFA
 
 ## Getting Started
 
